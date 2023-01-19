@@ -1,0 +1,10 @@
+edu\au\javacourse\input\InputTransformation.class
+edu\au\javacourse\transformation\Rotation.class
+edu\au\javacourse\transformation\Transformation.class
+edu\au\javacourse\transformation\Scaling.class
+edu\au\javacourse\transformation\AffineTransformation.class
+edu\au\javacourse\input\InputReader.class
+edu\au\javacourse\transformation\Main.class
+edu\au\javacourse\transformation\Matrix.class
+edu\au\javacourse\transformation\Point.class
+edu\au\javacourse\transformation\Translation.class

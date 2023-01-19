@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.2">
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\input\InputReader.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\input\InputTransformation.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\AffineTransformation.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Main.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Matrix.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Point.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Rotation.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Scaling.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Transformation.java">
+</file>
+<file name="D:\Учеба\Программирование\Java\assignment-2-aFy4a\src\main\java\edu\au\javacourse\transformation\Translation.java">
+</file>
+</checkstyle>
